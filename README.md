@@ -103,7 +103,7 @@ Edit `assets/config.json`:
 If you like this tool or have suggestions, feel free to reach out!  
 Let’s build cool stuff together. 😎💻
 
-- 🐦 Telegram: [@yourhandle](https://t.me/smartmoneyreversal)
+- 🐦 Telegram: [@Merkz](https://t.me/smartmoneyreversal)
 - 💬 Discord: smartmoneyreversal
 - ☕ SOL: G39hKUBXLiXxiUjLSTXZG18nSGyTApysvEvRqSJgVGgx
 
