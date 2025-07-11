@@ -1,0 +1,22 @@
+{
+    "delays": {
+        "follow": 10,
+        "unfollow": 10,
+        "dm": 20,
+        "like": 2,
+        "comment": 3,
+        "story_view": 1,
+        "between_actions": 1,
+        "scrape": 5
+    },
+    "debug": true,
+    "max_attempts": 3,
+    "safe_mode": true,
+    "dm_daily_limit": 50,
+    "like_limit": 300,
+    "comment_limit": 100,
+    "scrape_likes_mode": 0,
+    "location_posts_limit": 20,  
+    "max_posts_to_scrape": 20,  
+    "max_following_limit": 7500  
+}
