@@ -103,11 +103,9 @@ Edit `assets/config.json`:
 If you like this tool or have suggestions, feel free to reach out!  
 Let’s build cool stuff together. 😎💻
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 📸 Instagram: [@yourusername](https://instagram.com/yourusername)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 Telegram: [@yourhandle](https://t.me/smartmoneyreversal)
 - 💬 Discord: smartmoneyreversal
-- ☕ SOL: 
+- ☕ SOL: G39hKUBXLiXxiUjLSTXZG18nSGyTApysvEvRqSJgVGgx
 
 > *Don't forget to ⭐ the repo if you find it helpful!*
 
